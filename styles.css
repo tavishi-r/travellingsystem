@@ -1,0 +1,44 @@
+/* body {
+  background: linear-gradient(to bottom, #ffffcc, #ffffff);
+} */
+
+/* .central-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.central-div h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.central-div p {
+  text-align: center;
+  font-size: 1.5rem;
+} */
+body {
+  background: linear-gradient(to bottom, #ffffcc, #ffffff);
+
+
+.central-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 0 20px; /* Adds padding from both ends */
+  margin: 0 50px; /* Adds margin from left and right */
+}
+
+.central-div h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.central-div p {
+  text-align: center;
+  font-size: 1.5rem;
+}
